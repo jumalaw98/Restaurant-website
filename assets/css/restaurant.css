@@ -315,7 +315,7 @@ margin-bottom: 2vh; }
 }
 .veggieshtml{
     /* background-color: #AAFF00; */
-background-image:url(veggieshtml.jpeg) ;
+background-image:url(../images/veggieshtml.jpeg) ;
 }
 .juices {
 display: flex;
@@ -477,7 +477,7 @@ border-radius: 50%;
 }
 
 .kids{
-    background: url(kids_selection.jpeg) right bottom no-repeat, url(kidsbg.jpeg) left top repeat;
+    background: url(../images/kids_selection.jpeg) right bottom no-repeat, url(../images/kidsbg.jpeg) left top repeat;
 }
 .kidstable{
     color: white;
@@ -503,7 +503,7 @@ margin-bottom: 2vh; }
     height: 400px;
 }
 .cyclicmenu{
-    background-image: url(cyclicbg.jpeg);
+    background-image: url(../images/cyclicbg.jpeg);
 }
 .chef{
     display: flex;
